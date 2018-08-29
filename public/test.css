@@ -5,7 +5,19 @@ h1
 {
 	color: #fff;
 }
+<<<<<<< HEAD
 h5
 {
 	color:#fff;
 }
+=======
+h4 {
+  font-size: 18px;
+  font-weight: 600;
+  color: #333;
+}
+p {
+  font-size: 14px;
+  color: #666;
+}
+>>>>>>> 9dac7030fc552eb7ec6faa36e6fbc18141e1a797
